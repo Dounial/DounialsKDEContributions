@@ -2,6 +2,7 @@
 Exec=media-downloader
 Icon=/home/dounial/.local/share/kio/servicemenus/icon.png
 Name=Open Media-downloader
+Name[nl]=Media-downloader openen
 
 [Desktop Entry]
 Actions=OpenMedia-Downloader;
