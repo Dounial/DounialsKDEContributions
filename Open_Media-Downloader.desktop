@@ -1,0 +1,13 @@
+[Desktop Action OpenMedia-Downloader]
+Exec=media-downloader
+Icon=/home/dounial/.local/share/kio/servicemenus/icon.png
+Name=Open Media-downloader
+
+[Desktop Entry]
+Actions=OpenMedia-Downloader;
+Icon=/home/dounial/.local/share/kio/servicemenus/icon.png
+MimeType=all/all;
+ServiceTypes=KonqPopupMenu/Plugin
+Type=Service
+X-KDE-Priority=TopLevel
+X-KDE-StartupNotify=false
