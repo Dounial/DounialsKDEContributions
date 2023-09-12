@@ -1,0 +1,13 @@
+[Desktop Action OpenDuckduckgoviaVivaldi]
+Exec=vivaldi-stable "https://duckduckgo.com/?q="
+Icon=plasma-search
+Name=Search Duckduckgo via Vivaldi
+
+[Desktop Entry]
+Actions=OpenDuckduckgoviaVivaldi;
+Icon=plasma-search
+MimeType=all/all;
+ServiceTypes=KonqPopupMenu/Plugin
+Type=Service
+X-KDE-Priority=TopLevel
+X-KDE-StartupNotify=false
